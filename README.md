@@ -4,5 +4,6 @@ title: readme
 nav_exclude: true
 ---
 
-このドキュメントは、GitHub Pagesにて公開する目的で作成されました。
-テーマとして、Patrick Marsceill氏の作成した[Just the Docs](https://pmarsceill.github.io/just-the-docs/)を利用しています。
+レクチャーシリーズ『TOPPING』へようこそ。この『Shoot and Edit by Digital』では、自分の興味のあることや作品を紹介する手法の１つとして、ちょっとした映像を自分で"撮り"、"編集する"はじめの一歩を学んでいきます。
+
+映像を作ってみたいけど、どこからスタートすれば分からないという方を対象にした、はじめの一歩をサポートするショートレクチャーシリーズです。
