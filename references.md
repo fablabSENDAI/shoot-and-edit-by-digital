@@ -25,6 +25,8 @@ has_children: true
 
 ## DaVinci Resolve 関連
 
+#### * [DaVinci Resolve Official Training](https://www.blackmagicdesign.com/sa/products/davinciresolve/training)
+
 #### * [FUSIONで作るモーショングラフィックスの基本のキ！！](https://www.youtube.com/channel/UC5SRj5du6pUAmVivWxVEtFA)
 
 #### * [UZ LAND YouTubeチャンネル](https://www.youtube.com/channel/UC5SRj5du6pUAmVivWxVEtFA)
