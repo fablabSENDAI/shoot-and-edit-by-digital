@@ -1,11 +1,13 @@
 ---
 layout: default
-title: 編集する
+title: 編集クラス
 nav_order: 3
 has_children: true
 ---
 
-# 編集する
+# 編集クラス
+
+**[編集クラス動画リンク](https://www.youtube.com/watch?v=9REuWNMlvpY)**
 
 PCとインターネットが普及し、幾星霜。技術の進歩によってハードルが高かった動画編集も無料で手軽にはじめられる環境が整っています。
 今回レクチャーする『 [DaVinci Resolve (ダビンチ・リゾルブ)](https://www.blackmagicdesign.com/jp/products/davinciresolve/) 』は、無償版もある高機能な映像編集ソフトウェアです。
