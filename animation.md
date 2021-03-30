@@ -1,11 +1,13 @@
 ---
 layout: default
-title: アニメーションをつくる
+title: アニメーションクラス
 nav_order: 4
 has_children: true
 ---
 
-# アニメーションをつくる
+# アニメーションクラス
+
+**[アニメーションクラス動画リンク](https://www.youtube.com/watch?v=kSX9joGoMz0)**
 
 Resolveの強力な機能の１つであるFusion(フュージョン)を使う事で、動画にかけるエフェクトや本格的なモーショングラフィックを自作することができます。今回は、動画の素材として使える簡単なアニメーションを作ることでFusionの基礎に触れていきましょう。
 
