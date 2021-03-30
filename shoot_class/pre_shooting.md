@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 撮影する前に気を付けたいこと
-parent: 撮影する
+parent: 撮影クラス
 nav_order: 5
 ---
 

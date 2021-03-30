@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ターゲットを考える - どんな人に見せたい？
-parent: 撮影する
+parent: 撮影クラス
 nav_order: 1
 ---
 

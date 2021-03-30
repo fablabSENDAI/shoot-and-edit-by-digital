@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 照明
-parent: 撮影する
+parent: 撮影クラス
 nav_order: 6
 ---
 

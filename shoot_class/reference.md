@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 何風に作るかを考える - 参考を探す
-parent: 撮影する
+parent: 撮影クラス
 nav_order: 2
 ---
 

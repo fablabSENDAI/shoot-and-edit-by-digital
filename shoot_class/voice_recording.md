@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 声入れ
-parent: 撮影する
+parent: 撮影クラス
 nav_order: 4
 ---
 

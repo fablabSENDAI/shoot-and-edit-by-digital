@@ -1,7 +1,7 @@
 ---
 layout: default
 title: コンテ（計画書）をつくる
-parent: 撮影する
+parent: 撮影クラス
 nav_order: 3
 ---
 
