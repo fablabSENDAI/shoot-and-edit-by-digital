@@ -1,11 +1,13 @@
 ---
 layout: default
-title: 撮影する
+title: 撮影クラス
 nav_order: 2
 has_children: true
 ---
 
-# 撮影する
+# 撮影クラス
+
+**[撮影クラス動画リンク](https://www.youtube.com/watch?v=9gaTsyJU5H4)**
 
 最初から高価な撮影機材を買ったり、使ったりするのは、なかなかハードルが高いですよね。
 最近は、スマートフォンの性能もグッと上がってきているので、工夫次第で良い動画素材が撮れます。
