@@ -23,6 +23,8 @@ has_children: true
 
 #### * [Creative Commonsについて](https://creativecommons.jp/licenses/)
 
+#### * [イージング早見表](https://easings.net/en)
+
 ## DaVinci Resolve 関連
 
 #### * [DaVinci Resolve Official Training](https://www.blackmagicdesign.com/sa/products/davinciresolve/training)
